@@ -1,0 +1,10 @@
+total 36
+drwxrwxr-x 5 giovanni giovanni 4096 Sep 14 14:58 .
+drwxrwxr-x 3 giovanni giovanni 4096 Sep 14 14:01 ..
+drwxrwxr-x 2 giovanni giovanni 4096 Sep 14 14:35 DIR
+drwxrwxr-x 2 giovanni giovanni 4096 Sep 14 14:58 DIR2
+-rw-rw-r-- 1 giovanni giovanni   84 Sep 14 14:31 file2_branch1
+-rw-rw-r-- 1 giovanni giovanni   37 Sep 14 14:34 file3
+-rw-rw-r-- 1 giovanni giovanni   19 Sep 14 14:08 file_branch1
+drwxrwxr-x 8 giovanni giovanni 4096 Sep 14 14:46 .git
+-rw-rw-r-- 1 giovanni giovanni  202 Sep 14 14:02 README.md
